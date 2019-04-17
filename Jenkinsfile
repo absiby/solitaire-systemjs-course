@@ -55,7 +55,7 @@ parallel chrome: {
 }
 //, safari: {
    // runTests("Safari")
-}
+//}
 
 def runTests(browser) {
     node {
